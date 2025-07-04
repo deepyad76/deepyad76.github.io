@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 24;
-  background-color: #f5dd42;
+  bgcolor: #f5dd42;
   color: #333;
 }
